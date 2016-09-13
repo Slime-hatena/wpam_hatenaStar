@@ -207,7 +207,7 @@ function wpam_hatenaStar() {
             entryNodes: {
                 'div.section': {
                     uri: '" . $wpam_view_headding .  "',
-                    title: '" . $wpam_view_headding .  "',
+                    title: '" . $wpam_view_headding .  " a',
                     container: '" . $wpam_view_headding .  "'
                 }
             }
